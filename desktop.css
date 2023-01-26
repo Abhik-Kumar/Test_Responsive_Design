@@ -273,7 +273,7 @@ body {
   background-color: var(--base-white);
 }
 .sub-nav {
-  display: none;
+  /* display: none; */
   height: 100vh;
   flex: 1; 
   flex-direction: column;
